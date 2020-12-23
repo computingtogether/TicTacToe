@@ -2,7 +2,7 @@
 
 This program is part of [The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/tic-tac-toe) Ruby Programming path
 
-To play the game navigagte to the directory containing these files. then in your command line enter:
+To play the game, navigagte to the directory containing these files. Then in your command line enter:
 ```
 $ ruby Main.rb
 ```
