@@ -4,7 +4,7 @@ This program is part of [The Odin Project](https://www.theodinproject.com/course
 
 To play the game, navigagte to the directory containing these files. Then in your command line enter:
 ```
-$ ruby Main.rb
+$ ruby main.rb
 ```
 To quit the game type ctrl + c
 
