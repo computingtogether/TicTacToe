@@ -1,10 +1,8 @@
-require_relative 'Game.rb'
-require_relative 'Board.rb'
-require_relative 'Announcements.rb'
+require_relative 'game.rb'
+require_relative 'board.rb'
+require_relative 'announcements.rb'
 
 include Announcements
-
-
 
 def run_game
   game = Game.new

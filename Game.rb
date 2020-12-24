@@ -1,5 +1,5 @@
-require_relative 'Board.rb'
-require_relative 'Announcements.rb'
+require_relative 'board.rb'
+require_relative 'announcements.rb'
 
 class Game
   include Announcements
